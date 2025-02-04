@@ -1,7 +1,7 @@
-# Housing-Price-Prediction-
-It was project for Lakeshore real state company i work for 1 year
 
-# Prediction of Housing Prices 🏡📊  
+# Housing-Price-Prediction- 🏡📊  
+
+It was project for Lakeshore real state company i work for 1 year
 
 ## Project Overview 
 This project aims to predict housing prices using **supervised learning** techniques. The task is a **regression problem**, where we predict the **median value of owner-occupied homes (MEDV)** based on various housing attributes. The model is trained using **online learning** for continuous updates and adaptation. Performance is evaluated using **Root Mean Square Error (RMSE).**  
